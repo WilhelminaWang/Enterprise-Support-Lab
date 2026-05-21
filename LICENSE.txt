@@ -1,0 +1,7 @@
+Copyright (c) 2026 Wilhelmina Wang. All rights reserved.
+
+This repository and its contents, including but not limited to code, scripts, documentation, architecture diagrams, configurations, and project materials, are provided solely for portfolio and demonstration purposes.
+
+No part of this repository may be copied, modified, redistributed, sublicensed, published, reused, or used for commercial purposes without prior written permission from the author.
+
+Unauthorized reproduction, redistribution, or commercial use is strictly prohibited.

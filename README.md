@@ -1,5 +1,13 @@
 [toc]
 
+# ==Notice==
+
+This repository is published for portfolio and demonstration purposes only.
+
+Code, scripts, configurations, documentation, and project materials may not be copied, reused, redistributed, modified, or used commercially without explicit permission from the author.
+
+
+
 # Enterprise IT Support Lab
 
 # 1. Overview
@@ -75,5 +83,4 @@ All evidence and screenshots are stored in the `/image` folder and referenced wi
 - Enterprise IT troubleshooting methodology
 - Incident-based documentation (ITIL-style thinking)
 - Structured technical communication
-
 
